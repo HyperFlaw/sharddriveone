@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "calcium-backup-296809",
+  "private_key_id": "9e5de3d7c7c0b2c83b99a9bc9133155130f77635",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCkt7KVYS9i0bDj\n1yfzOmwtI0z8oAa5kOdD+/gnCZ3HrjVl+GaMHQdZFvg1KfSz9+7tyqPgexMOY3OH\nJzs+/ZXria8hIAWvJODz7+hLJeGFS+yqpu7BHTz/QexxIAI4eTr0ou8ZaC7BrYCc\n1ycMjl1RxYkzNTUVGxTfivRxQ+1DQ0KWc+H8GW3uDX+CLiGl3qpXqMupQoIAK2uW\nuRFytznV1S/fsB/xXk2ZITqPhVFMVG65L013Cugi6aZVbpW4dfzvyiXtbYxpon0s\np922pu1zObb+2a8tyaio3wJfMOkO/Dx94ePGsUzHl6WXkk9ghI2pIm87zvbgnT/G\nRMi5RVCNAgMBAAECggEACOEySmVD1bLyM0YtDCqxHDnT86Z41lYecYbK2OfmzpXw\noP+kH5eNBtt7I/qQC4epJL6Q2RApddQcrUOLKRkolNsGSuXcCJYXXm8nea2gG7x9\nFLINGvIFkMkwAuUz2XGHoRqLgzYflydQUKQ0obOnCjp46/7JTsr39BkclmKQDtki\nQAgyQWe5J8+wmePlpmKZdKsUJlVa8RlvIrZug7n/ZNdLlYaFYGyfBgNjFhTxD1bz\n74roiIcwUj0XEr0DYNJpT8929BFAwE+YHjGJs/z2BcKXj4PASpMkYLKp07POMYxy\njaT79froiuYP56DPFjC4QKsazjD2jpqxgcwmJq4fYQKBgQDQ/muJGXoc6lZQNw2Q\nLI5LUT2qeYOSUdFOuhYjG4CKfdE7N377fW4izYYYkIuL3rOgP4PilnDvBZx7+23U\n6LSQOzTNZDMxszG8LSwxa6d44BixT7mLXtxJ0+kkxJWGW2sGLKIb633woc29oER+\nlwhcpkz/i5WzW1igq7JhDKq5VQKBgQDJw+krMSuOyKwRiwAjv98g1dTvFkaiHcSJ\n+blghpCrzhMkNBqdUc9PfIXSi9XSKScgdrXGEovauQ9VsePn4RazMU17o/NbZXpc\nJkYiAHYSMdf1qashrvDspaQqYno04ZrqFUk6oovwtDNZY0okCxM83cfsqOwKPIAa\nUnaVjbdaWQKBgQC5jhpV+GvF/n0x7R86sYSI9JGGqSqbH89xUaDT/NgMnhbFt8kj\nasL9XXLAnp13Svw6vAnRhPayEU5Vee+TCCVApYCFF4CokMwIoibJniZsGLNzwjAf\nwNJfLimivnNvff0w1zH7DgOcQVyVDxWhO2FuOSzF+t2oB+NRi//tULzHnQKBgBnV\nOppsHj6W1OkeGfN50pC6sBu4h2ykURC1Z5XDROyqYusEvM+dtORhdiTiAIt692aB\nrH5iy4NCpIL9VsfOmwBwdJI7CKKQGJ2JzPr3giaMOTFb+uxCINi70IwYtbrlk9ca\nyJh4TWCRQe3U954ryNfHMZzMeARLgL9eBY7aaTppAoGAEZhgbaQEwB1mAi487jxg\n0QJvIHBOQ/iza/eRlWVzpT/YNNNPywp9/Toc4TYCu1UgByXPajHoQmqV0trpvS1U\nkfbj4fdgWVlhjLfY0DMkEGOuxkkaGJim3/SAB519ISXShlRl5sIPsopyfr4XyVNd\naLax18AGIn8Jtl6CBBZioEY=\n-----END PRIVATE KEY-----\n",
+  "client_email": "mfc-tqqrstoternd84384-69b4psoa@calcium-backup-296809.iam.gserviceaccount.com",
+  "client_id": "116191747430239650342",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/mfc-tqqrstoternd84384-69b4psoa%40calcium-backup-296809.iam.gserviceaccount.com"
+}
